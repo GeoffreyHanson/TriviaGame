@@ -1,0 +1,21 @@
+* {
+    font-family: lucida console;
+}
+
+body {
+    background: url("../images/ruslan-rotaru-carbackground.gif");
+    background-size: 100%;
+    
+    color: green
+    
+}
+
+#container {
+    background: black;
+    width: 30%;
+    padding: 15px;
+}
+
+#start {
+    margin: 0 auto;
+}
